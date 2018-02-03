@@ -1,6 +1,6 @@
 ***My Name is Darrell Haire!***
 ---
-![My picture placeholder](my picture.jpg)
+
 ## About Me
 I am Darrell Haire, and this is my project. Greetings and welcome to the website that I am building. I hope you like it.
 ## My Hobbies

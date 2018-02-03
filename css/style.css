@@ -1,10 +1,22 @@
-class: section1{
-  font: ;
-  font-family: ;
-  font-size: ;
-  color: ;
+/* blog */
+html{
+  box-sizing: border-box;
 }
-class: directory{
+
+.container{
+  max-width: 690px;
+  margin: 0 auto;
+  border: 5px solid black;
+  padding: 10px;
+
+}
+
+#footer{
 
 
+}
+/* contact */
+.container2{
+
+  
 }
