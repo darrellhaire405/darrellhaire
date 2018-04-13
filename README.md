@@ -14,4 +14,4 @@ I am Darrell Haire, and this is my project. Greetings and welcome to the website
 3. [Github](https://github.com/darrellhaire405/darrellhaire)
 4. [My Website](https://relaxed-borg-387d57.netlify.com)
 
-![My picture](my picture.jpg)
+![My picture](pictures/my-picture.jpg)
